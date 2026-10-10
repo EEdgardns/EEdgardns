@@ -1,5 +1,4 @@
-
-# Hi, I'm Edgar Donis <img width="583" height="583" alt="Image" src="https://github.com/user-attachments/assets/62050e8f-cda2-49e6-bb89-327392e06f47" /> width="40" />
+# Hi, I'm Edgar Donis <img src="https://github.com/user-attachments/assets/62050e8f-cda2-49e6-bb89-327392e06f47" width="40" alt="Logo" />
 
 ### Junior programmer - Guatemala, Guatemala
  Fourth-semester Systems Engineering student at the University of San Carlos of Guatemala, in Guatemala.

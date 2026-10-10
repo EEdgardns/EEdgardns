@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**EEdgardns/EEdgardns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Edgar Donis <img width="583" height="583" alt="Image" src="https://github.com/user-attachments/assets/62050e8f-cda2-49e6-bb89-327392e06f47" /> width="40" />
 
-Here are some ideas to get you started:
+### Junior programmer - Guatemala, Guatemala
+ Fourth-semester Systems Engineering student at the University of San Carlos of Guatemala, in Guatemala.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+
+![Stack](https://skillicons.dev/icons?i=java,linux,python,mysql&theme=dark)
+
+
+También: React - HTML - JavaScript
+
+---
+
+### Projects
+
+
+| Project | Qué es | Stack |
+|---|---|---|
+|**Proyecto1**|*descripcion1* | Tipo de Stack |
+|**Proyecto2**|*descripcion2* | Tipo de Stack |
+|**Proyecto3**|*descripcion3* | Tipo de Stack |
+
+---
+![snake](https://raw.githubusercontent.com/EEdgardns/EEdgardns/output/snake-dark.svg)
